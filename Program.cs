@@ -46,7 +46,7 @@ app.MapGet("/juliana", () =>
 
 });
 
-app.MapGet("/juliana2", () =>
+app.MapGet("/juliana3", () =>
 {
     return "Olá Juliana!!";
 
